@@ -5,8 +5,6 @@
 |Screenshot1|Screenshot2|
 |---|---|
 |<img src="./screenshot/1.png"/>|<img src="./screenshot/1.png"/>|
-![1](./screenshot/1.png)
-![2](./screenshot/2.png)
 </br>
 
 # 배운 내용 정리
